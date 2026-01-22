@@ -17,9 +17,9 @@ To run tests, run the following command
 
 
 
-Frontend: https://movie-website-frontend-ujig.onrender.com
+Frontend: https://movie-web-mern-frontend.onrender.com
 
-Backend: https://your-backend-url.onrender.com
+Backend: https://movie-web-mern-backend.onrender.com
 ## Tech Stack
 
 **Frontend:** React.js, Material UI, React Router DOM, Axios, Context API
@@ -106,6 +106,7 @@ movie-app/
 ├── screenshots/
 │
 └── README.md
+
 
 ## ⚙️ Environment Variables
 
