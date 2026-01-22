@@ -74,40 +74,6 @@ Backend: https://movie-web-mern-backend.onrender.com
 
 
 
-
-
-
-## 📁 Project Structure
-
-
-
-movie-app/
-│
-├── movie-backend/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   ├── config/
-│   ├── utils/
-│   ├── uploads/
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── routes/
-│   │   └── App.jsx
-│   └── package.json
-│
-├── screenshots/
-│
-└── README.md
-
-
 ## ⚙️ Environment Variables
 
 **Backend**
