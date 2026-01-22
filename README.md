@@ -95,7 +95,7 @@ REACT_APP_API_URL=Backend_Deployment_Link
 
 **1️⃣ Clone Repository**
 
-git clone https://github.com/your-username/movie-app.git
+git clone https://share.google/BwzNsqkmi0EaeISyb
 cd movie-app
 
 
