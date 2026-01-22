@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 export const MovieContext = createContext(null);
 
 const MovieContextProvider = (props) => {
-  const url = process.env.REACT_APP_API_URL || "https://movie-website-backend-ojad.onrender.com";
+  const url = process.env.REACT_APP_API_URL || "https://movie-web-mern-backend.onrender.com";
   
   // Auth State
   const [token, setToken] = useState("");
